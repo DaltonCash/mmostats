@@ -1,0 +1,7 @@
+{ 
+//key bindings for mmostats
+
+//keybinding for gui
+	"key.category.mmostatsmod.mmostats": "mmostats mod",
+	"key.mmostats.open_upgrade_gui": "Open Gui"
+}
